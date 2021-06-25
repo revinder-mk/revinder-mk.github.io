@@ -5,8 +5,8 @@ title: About
 
 ### About blog
 
-It is kind of personal, I'm going to be writing only about topics that are interesting to me and probably outside of any fixed schedule so don't expect anything.
-If there is a new post, I will mention it on my twitter so preferably check there for updates.
+It is kind of personal, I'm going to be writing only about topics that are interesting to me and probably outside of any fixed schedule so don't expect it.
+If there is a new post, I will mention it on my twitter so preferably check there for updates. This blog is powered by [jekyll](https://jekyllrb.com/) hosted on [github](https://pages.github.com/).
 
 ### Who am I?
 
@@ -20,7 +20,9 @@ My name is Michael. On the internet most people know me by 'Revinder' hence the 
     - Diablo 2
     - Underlords/TFT
 
-* **Movies/TV Series** - less than original but I can't help myself. I'm always drawn towards good shows. If you have any hidden gems let me know! I keep scheduled list of what to watch next and given initial interest, I will add it to it! There is no limit to genre - it can be anything.
+* **Movies/TV Series** - less than original but I can't help myself. I'm always drawn towards good shows and movies. If you have any hidden gems let me know! I keep scheduled list of what to watch next and given initial interest, I will add it to it! There is no limit to genre - it can be anything.
+
+* **Music** - pretty much the same deal as movies and tv series ;).
 
 
 Feel free to reach me on twitter [@Revinder_](https://twitter.com/Revinder_)
