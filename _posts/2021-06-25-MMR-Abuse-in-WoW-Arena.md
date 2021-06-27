@@ -1,10 +1,6 @@
-
 ---
-
 title: MMR abuse in World of Warcraft Arena
-
 published: true
-
 ---
 ## Introduction
 
